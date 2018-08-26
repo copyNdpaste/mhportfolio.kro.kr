@@ -1,1 +1,1 @@
-# copyndpaste.com
+ <a href="copyndpaste.cf"># copyndpaste.cf</a>

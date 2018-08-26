@@ -1,1 +1,1 @@
- <a href="https://copyndpaste.cf/">copyndpaste.cf</a>
+ <a href="https://copyndpaste.cf/" target="_blank">copyndpaste.cf</a>

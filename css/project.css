@@ -5,3 +5,14 @@
       background: #000099;
 
 }
+#say_hello2{
+    font-size:50px;
+    font-weight:1000;
+}
+#say_hello2,#say_hello1{
+    color:navajowhite;
+}
+#more{
+    background-color:white;
+    opacity: 0.7;
+}

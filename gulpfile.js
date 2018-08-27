@@ -45,6 +45,16 @@ gulp.task('vendor', function() {
       './node_modules/jquery.easing/*.js'
     ])
     .pipe(gulp.dest('./vendor/jquery-easing'))
+  // Magnific Popup
+  gulp.src([
+      './node_modules/magnific-popup/dist/*'
+    ])
+    .pipe(gulp.dest('./vendor/magnific-popup'))
+  // Scrollreveal
+  gulp.src([
+      './node_modules/scrollreveal/dist/*.js'
+    ])
+    .pipe(gulp.dest('./vendor/scrollreveal'))
 
   // Simple Line Icons
   gulp.src([

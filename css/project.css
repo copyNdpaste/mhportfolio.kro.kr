@@ -3,7 +3,6 @@
 }
 .card-body{
       background: #000099;
-
 }
 #say_hello2{
     font-size:50px;
@@ -13,6 +12,10 @@
     color:navajowhite;
 }
 #more{
+    background-color:white;
+    opacity: 0.7;
+}
+#project-btn{
     background-color:white;
     opacity: 0.7;
 }

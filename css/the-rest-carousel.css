@@ -1,0 +1,25 @@
+#tbl{
+    margin:0 auto;
+    border:5px solid;
+}
+#image-section{
+    background-color:cornflowerblue;
+}
+#carouselIndicators, #carouselIndicators1, #carouselIndicators2, #carouselIndicators3,#carouselIndicators4,
+#carouselIndicators5,#carouselIndicators6,#carouselIndicators7,#carouselIndicators8{
+    margin:0 auto;
+    width:500px;
+    height:600px;
+}
+.carousel-inner{
+    width:100%;
+    height:600px;
+}
+.carousel-img{
+    width:100%;
+    height:600px;
+}
+a.project-link:link, a.project-link:hover, a.project-link:visited, a.project-link:active{
+    text-decoration:none !important;
+    color:white;
+}
